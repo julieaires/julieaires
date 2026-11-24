@@ -12,7 +12,7 @@
 ---
 
 #### about
-I spent years translating ideas into pixels — from my Design degree (UFMA) to leading brand and UI/UX projects at **lasbeck&Co** and **Tanja Estúdio**. Now studying Information Systems (Uninter) and diving into the architecture, logic, and data that make digital products work.
+I spent years translating ideas into pixels — from my Design degree (UFMA) to leading brand and UI/UX projects at **Tanja Estúdio**. Now studying Information Systems (Uninter) and diving into the architecture, logic, and data that make digital products work.
 
 #### toolkit
 | Design | Dev | Exploring |
